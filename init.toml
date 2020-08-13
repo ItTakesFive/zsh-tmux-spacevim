@@ -1,0 +1,12 @@
+[[layers]]
+name = "ctrlp"
+
+[[layers]]
+name = "git"
+git-plugin = "fugitive"
+
+[[custom_plugins]]
+name="junegunn/vim-easy-align"
+
+[options]
+bootstrap_before = "myspacevim#before"
